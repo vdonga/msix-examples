@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AppInstaller Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/app-installer-demo_x86.appinstaller" Version="1.0.0.0" xmlns="<AppInstaller Uri="https://msix-appinstaller.azurewebsites.net/MyEmployees.Package.appinstaller" Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+<AppInstaller Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/app-installer-demo_x86.appinstaller" Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
   <MainPackage Name="app-installer-demo" Publisher="CN=Flexera Software LLC, O=Flexera Software LLC, L=Itasca, S=Illinois, C=US" Version="2.0.0.0" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/app-installer-demo_x86-2.0.msix" ProcessorArchitecture="x86" />  
 </AppInstaller>
