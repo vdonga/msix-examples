@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/MsiDiff_x86.appinstaller" Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+  <MainPackage Name="MsiDiff" Publisher="CN=Flexera Software LLC, O=Flexera Software LLC, L=Itasca, S=Illinois, C=US" Version="1.0.0.0" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/MsiDiff_x86.appinstaller" ProcessorArchitecture="x86" />
+  <UpdateSettings>
+    <OnLaunch ShowPrompt="false" UpdateBlocksActivation="false" />
+    <ForceUpdateFromAnyVersion>false</ForceUpdateFromAnyVersion>
+    <AutomaticBackgroundTask />
+  </UpdateSettings>
+</AppInstaller>
