@@ -3,7 +3,7 @@
   <MainPackage Name="app-installer-demo" Publisher="CN=Flexera Software LLC, O=Flexera Software LLC, L=Itasca, S=Illinois, C=US" Version="1.0.0.0" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/app-installer-demo_x86-1.0.msix" ProcessorArchitecture="x86" />  
   
   <UpdateSettings>
-  <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="true" />
+  <OnLaunch HoursBetweenUpdateChecks="0"/>
   </UpdateSettings>
   
 </AppInstaller>
