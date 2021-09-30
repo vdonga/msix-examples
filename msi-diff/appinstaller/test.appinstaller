@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<AppInstaller Version="1.0.0.0" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/test.appinstaller" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
-	<MainPackage Name="Test" Publisher="CN=Acresso Test Root, O=Organization, OU=Org Unit, L=Schaumburg, S=IL, C=US" Version="1.0.0.0" ProcessorArchitecture="x86" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/Test_x86.msix"/>
+<AppInstaller Version="2.0.0.0" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/test.appinstaller" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	<MainPackage Name="Test" Publisher="CN=Acresso Test Root, O=Organization, OU=Org Unit, L=Schaumburg, S=IL, C=US" Version="2.0.0.0" ProcessorArchitecture="x86" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/Test_x86.msix"/>
 	<UpdateSettings>
 		<OnLaunch ShowPrompt="true"/>
 	</UpdateSettings>
