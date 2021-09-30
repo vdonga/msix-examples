@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AppInstaller Version="1.0.0.0" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/test2.appinstaller" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	<MainPackage Name="Test2" Publisher="CN=Acresso Test Root, O=Organization, OU=Org Unit, L=Schaumburg, S=IL, C=US" Version="1.0.0.0" ProcessorArchitecture="x86" Uri="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/Test2_x86.msix"/>
+	<UpdateSettings>
+		<OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="true"/>
+	</UpdateSettings>
+</AppInstaller>
