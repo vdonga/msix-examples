@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Metadata xmlns="installshield/2014/update">
-  <Update Id="{CE37D362-C517-4A0E-BE69-3F6F00BCBDA6}" Version="2.00.0000" Url="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/setup.exe" />
+  <Update Id="{E381E910-A56B-4081-99C1-F615E0F20C91}" Version="1.00.0000" Url="https://vdonga.github.io/msix-examples/msi-diff/appinstaller/setup.exe" />
 </Metadata>
